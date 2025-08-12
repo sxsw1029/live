@@ -31,7 +31,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <video v-show="plyrPlayer" ref="videoElement" controls crossorigin playsinline class="min-h-screen max-h-screen" />
+  <video v-show="plyrPlayer" ref="videoElement" controls crossorigin playsinline autoplay muted class="min-h-screen max-h-screen" />
 </template>
 
 <style>
