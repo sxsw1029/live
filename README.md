@@ -1,4 +1,4 @@
-<h1 align="center">Simple HTTP-FLV Live Streaming Player</h1>
+<h1 align="center">Simple HTML5 MPEG2-TS / FLV live streaming player</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/BUILT%20WITH-Nuxt-nrightgreen?style=for-the-badge" />
